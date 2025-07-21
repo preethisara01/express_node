@@ -1,8 +1,8 @@
 {
-  "name": "express_node",
+  "name": "practice",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +12,6 @@
   "dependencies": {
     "express": "^5.1.0",
     "lodash": "^4.17.21",
-    "module": "^1.2.5",
-    "node": "^20.19.4"
+    "nodemon": "^3.1.10"
   }
 }
